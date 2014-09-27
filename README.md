@@ -3,6 +3,7 @@ Crash Course
 
 Google Doc:  
 https://docs.google.com/document/d/1BQSlFJwdZ-uBrl4Rps5Y4T_AhvsxnEhajOJcCRgz2S0/edit  
+https://docs.google.com/document/d/13hVCdSeIcEc24GwRWclMMlKHhe1U8NA4ra7dU2oGDck/edit
 
 Software Carpentry:   
 http://software-carpentry.org/lessons.html  
