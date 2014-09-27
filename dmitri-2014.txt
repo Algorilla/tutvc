@@ -1,0 +1,10 @@
+Date,Species,Count
+2014-08-29,marlin,3
+2014-08-29,shark,1
+2014-08-29,tuna,15
+2014-08-30,shark,2
+2014-08-30,flying fish,1
+2014-08-30,cod,4
+2014-08-30,turtle,1
+2014-08-31,marlin,2
+2014-08-31,shark,1
