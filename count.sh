@@ -2,8 +2,8 @@
 # the number of distinct occurences of each species
 # in that file
 date
-for filename in data/*.txt
+for f in data/*.txt
 do
-    echo $filename
-    grep -v Species $filename | cut -d , -f 2 | sort | uniq -c | sort -n -r
+    echo $f
+    grep -v Species $f | cut -d , -f 2 | sort | uniq -c | sort -n -r
 done
