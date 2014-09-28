@@ -1,3 +1,3 @@
-Data,Species,Count
+Date,Species,Count
 2013-05-07,turtle,17
 2013-05-08,turtle,14
