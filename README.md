@@ -18,6 +18,11 @@ Git Book:
 http://git-scm.com/book  
 https://www.youtube.com/watch?v=ZDR433b0HJY  
 
+Some online course:  
+https://www.coursera.org/course/interactivepython
+https://www.coursera.org/course/initprogcpp (French)  
+https://www.coursera.org/course/intropoocpp (French)  
+
 NOT RELATED TO WORKSHOP
 =======================
 http://www.runforthecure.com/site/TR/RunfortheCureFY15/QBCF?px=4043900&pg=personal&fr_id=1892
