@@ -19,7 +19,7 @@ http://git-scm.com/book
 https://www.youtube.com/watch?v=ZDR433b0HJY  
 
 Some online course:  
-https://www.coursera.org/course/interactivepython
+https://www.coursera.org/course/interactivepython  
 https://www.coursera.org/course/initprogcpp (French)  
 https://www.coursera.org/course/intropoocpp (French)  
 
